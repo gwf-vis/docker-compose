@@ -1,0 +1,1 @@
+docker-compose --env-file env-configs/prod.env up -d
