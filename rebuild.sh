@@ -1,1 +1,1 @@
-docker-compose --env-file env-configs/prod.env rebuild
+docker-compose --env-file env-configs/prod.env up --build -d
